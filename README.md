@@ -10,7 +10,7 @@ My first musical instrument! It's like the Xylophone keyboard in the palm of you
 
 ## Screenshot
 
-![Screenshot Screenshot](Documentation/Screenshot.png=200x400)
+<img src= Documentation/Screenshot.png height="200" width="400">
 
 ## What I learned with this app
 
