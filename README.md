@@ -8,6 +8,10 @@ This app was built during the course "Complete iOS App Development Bootcamp" fro
 
 My first musical instrument! It's like the Xylophone keyboard in the palm of your hands now. Music apps are so popular on the App Store that they even get their own category. keyboard.
 
+## Screenshot
+
+![Screenshot Screenshot](Documentation/Screenshot.png)
+
 ## What I learned with this app
 
 * How to play sound using AVFoundation and AVAudioPlayer.
