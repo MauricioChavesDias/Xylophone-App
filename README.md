@@ -6,7 +6,7 @@ This app was built during the course "Complete iOS App Development Bootcamp" fro
 
 ## Description
 
-My first musical instrument! Music apps are so popular on the App Store that they even get their own category. Have fun with this app that simulate Xylophone keyboard.
+My first musical instrument! It's like the Xylophone keyboard in the palm of your hands now. Music apps are so popular on the App Store that they even get their own category. keyboard.
 
 ## What I learned with this app
 
